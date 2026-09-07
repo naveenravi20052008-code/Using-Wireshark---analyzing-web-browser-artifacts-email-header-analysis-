@@ -62,8 +62,7 @@ Captured Web Activity and Email Header Information
 
 <img width="642" height="347" alt="Screenshot 2026-09-07 173635" src="https://github.com/user-attachments/assets/6d2675e2-c11c-46a6-8bdb-368b4e007dc6" />
 
-<img width="812" height="417" alt="Screenshot 2026-09-07 173731" src="https://github.com/user-
-attachments/assets/4102affe-fc8a-4589-b5ca-3ad10a038993" />
+
 
 <img width="808" height="421" alt="Screenshot 2026-09-07 174158" src="https://github.com/user-attachments/assets/48b02450-fd58-4530-836d-2b4bfeeb4d2d" />
 
