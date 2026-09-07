@@ -56,19 +56,19 @@ flowchart TD
 
 ## OUTPUT:
 Captured Web Activity and Email Header Information
-<img width="1920" height="1080" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/007f869c-20aa-408f-ab04-6523d1d9c1f2" />
+<img width="1617" height="861" alt="Screenshot 2026-09-07 173313" src="https://github.com/user-attachments/assets/76ed29c1-0f99-45ea-a1b5-72c673d0ccd3" />
 
-<img width="1920" height="1080" alt="Screenshot (417)" src="https://github.com/user-attachments/assets/55781ee6-f495-47c1-9f1a-37ce2472cb62" />
+<img width="1200" height="587" alt="Screenshot 2026-09-07 173342" src="https://github.com/user-attachments/assets/116452e9-cba4-4504-bfba-fd63064410b9" />
 
-<img width="1920" height="1080" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/5818d169-6e3d-4c2a-8c9d-06365a2208c6" />
+![Uploading Screenshot 2026-09-07 174146.png…]()
 
-<img width="1920" height="1080" alt="Screenshot (420)" src="https://github.com/user-attachments/assets/d69b8074-dcde-470d-85c6-ff7f87aee780" />
+![Uploading Screenshot 2026-09-07 174158.png…]()
 
-img width="1920" height="1080" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/fbd91315-4065-4d0c-a08f-93ce4f65c3e3" />
+![Uploading Screenshot 2026-09-07 173859.png…]()
 
-<img width="1920" height="1080" alt="Screenshot (422)" src="https://github.com/user-attachments/assets/0e2af997-e837-437b-b80b-345822d74e8a" />
+![Uploading Screenshot 2026-09-07 173635.png…]()
 
-<img width="1920" height="1080" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/81ed1cf6-2f6c-4821-99f5-5e32864f1fb2" />
+![Uploading Screenshot 2026-09-07 173731.png…]()
 
 
 ## RESULT:
